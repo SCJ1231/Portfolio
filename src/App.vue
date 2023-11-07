@@ -1,7 +1,7 @@
 <template>
   <nav>
-    <router-link to="/">Home</router-link> |
-    <router-link to="/about">About</router-link>
+    <router-link to="/">이력서&자기소개서</router-link> |
+    <router-link to="/about">portfolio</router-link>
   </nav>
   <router-view />
 </template>
